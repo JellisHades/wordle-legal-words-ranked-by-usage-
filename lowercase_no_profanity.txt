@@ -363,7 +363,6 @@ truly
 spend
 thick
 spain
-jones
 empty
 extra
 twice
@@ -13246,7 +13245,6 @@ pacay
 paddo
 padle
 padou
-paedo
 pagle
 pahit
 pahus
@@ -13280,7 +13278,6 @@ peags
 peaze
 pebas
 pechs
-pedos
 peeky
 peely
 peens
@@ -13289,7 +13286,6 @@ peeoy
 peevo
 peghs
 pegma
-pegos
 peins
 peise
 peisy
@@ -13312,8 +13308,6 @@ perae
 permy
 perog
 perst
-perve
-pervs
 petos
 pewed
 pewit
@@ -13429,7 +13423,6 @@ popos
 porae
 porer
 porey
-porny
 posca
 posol
 potae
@@ -13563,7 +13556,6 @@ queys
 queyu
 quibs
 quich
-quims
 quipo
 quirl
 quods
@@ -13809,7 +13801,6 @@ saunf
 sayee
 sayne
 sazes
-scags
 scail
 scapi
 scaud
