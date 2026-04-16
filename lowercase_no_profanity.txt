@@ -5039,7 +5039,6 @@ kiddo
 blimp
 tress
 promo
-ganja
 minis
 soddy
 alios
@@ -11648,7 +11647,6 @@ chode
 chogs
 choil
 chons
-choof
 choss
 chuts
 chynd
